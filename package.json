@@ -1,0 +1,15 @@
+{
+    "name": "fxjob",
+    "version": "0.0.1",
+    "scripts": {
+        "start": "node app.js"
+    },
+    "dependencies": {
+        "@cloudant/cloudant": "^4.4.1",
+        "request": "^2.88.2"
+    },
+    "repository": {},
+    "engines": {
+        "node": "12.x"
+    }
+}
